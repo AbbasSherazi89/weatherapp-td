@@ -83,3 +83,17 @@ margin-right: 10px;
     font-size: 28px;
     margin-top: -6px;
 }
+
+.weather{
+    display: none;
+}
+
+.error{
+    display: none;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.error p{
+    color: red;
+}
